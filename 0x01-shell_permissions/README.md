@@ -3,3 +3,4 @@ File: 0-iam_betty ----> swtiched user to betty
 2-groups----> prints groups you are in 
 3-new_owner ----> changes the owner of file
 5-execute ----> will change excetion premison 
+6-multiple_permissions----> changes premmisons
